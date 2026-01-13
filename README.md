@@ -1,5 +1,5 @@
 # DM-UP240497
-Repo Gerardo Ortiz
+Repositorio Gerardo Ortiz
 
 Gerardo Ortiz Lopez 
 UP240497
